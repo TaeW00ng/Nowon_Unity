@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Obake_Scroll.unity
+- path: Assets/Scenes/Play_TileMap.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
